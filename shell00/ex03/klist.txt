@@ -1,0 +1,5 @@
+Credentials cache: API:C863DA61-D80B-4432-8E3D-1080F65E54EB
+        Principal: minsupki@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jan 31 15:39:47 2022  Feb  1 01:39:44 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
